@@ -86,7 +86,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -103,7 +104,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -155,7 +157,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -172,7 +175,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -189,7 +193,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -206,7 +211,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Fun Zone",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -223,7 +229,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Adventure Land",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -240,7 +247,8 @@
         "marker-size": "small",
         "marker-symbol": "circle",
         "stop": "Adventure Land",
-        "date_time": "2024-03-02T12:00:00Z"
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
       },
       "geometry": {
         "coordinates": [
@@ -256,8 +264,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -273,8 +282,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -290,8 +300,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -307,8 +318,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -324,8 +336,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -341,8 +354,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [
@@ -358,8 +372,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle",
-        "stop": "Water World",
-        "date_time": "2024-03-02T12:00:00Z"
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
       },
       "geometry": {
         "coordinates": [

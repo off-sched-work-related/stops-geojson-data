@@ -1,0 +1,385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Adventure Land",
+        "created_at": "2024-03-01",
+        "updated_at": "2024-03-01"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -85.44880234819684,
+              31.234013259275216
+            ],
+            [
+              -85.44862703929797,
+              31.233829709266786
+            ],
+            [
+              -85.4483813683251,
+              31.233981647910312
+            ],
+            [
+              -85.44857933476575,
+              31.234173354337003
+            ],
+            [
+              -85.44880234819684,
+              31.234013259275216
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Water World",
+        "created_at": "2024-03-01",
+        "updated_at": "2024-03-01"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -85.43949670070222,
+              31.238048732366792
+            ],
+            [
+              -85.43954426769704,
+              31.237095405530397
+            ],
+            [
+              -85.43942249619037,
+              31.237090524992823
+            ],
+            [
+              -85.4393882479541,
+              31.238050359196166
+            ],
+            [
+              -85.43949670070222,
+              31.238048732366792
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fun Zone",
+        "created_at": "2024-03-01",
+        "updated_at": "2024-03-01"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -85.43490399722936,
+              31.236267022662304
+            ],
+            [
+              -85.43490775232905,
+              31.235811095611155
+            ],
+            [
+              -85.43474002454276,
+              31.235798252563768
+            ],
+            [
+              -85.43474878644206,
+              31.236260601169832
+            ],
+            [
+              -85.43490399722936,
+              31.236267022662304
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43487571081566,
+          31.235971736678536
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43487956679057,
+          31.236040973829105
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43488342276547,
+          31.235953603130667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43486414289099,
+          31.23602778580434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43484871899143,
+          31.236006355260145
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Fun Zone",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43488149477801,
+          31.236019543287924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Adventure Land",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.44860854597688,
+          31.233884685549327
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "Adventure Land",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": "2024-03-02T12:00:00Z"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.44858724870313,
+          31.23389196970861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43947902433587,
+          31.23812557595727
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43947902433587,
+          31.238118946315964
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43947988586814,
+          31.238113053301063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43944800917373,
+          31.23810200389721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43947299360987,
+          31.23808800798372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.43945490143199,
+          31.23813736198514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "stop": "none",
+        "date_time": "2024-03-02T12:00:00Z",
+        "assigned_on": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -85.4394773012713,
+          31.238074748695382
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
