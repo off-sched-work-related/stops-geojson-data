@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "label": "Adventure Land",
+        "create_method": "manual",
         "created_at": "2024-03-01",
         "updated_at": "2024-03-01"
       },
@@ -41,6 +42,7 @@
       "type": "Feature",
       "properties": {
         "label": "Water World",
+        "create_method": "manual",
         "created_at": "2024-03-01",
         "updated_at": "2024-03-01"
       },
@@ -77,6 +79,7 @@
       "type": "Feature",
       "properties": {
         "label": "Fun Zone",
+        "create_method": "manual",
         "created_at": "2024-03-01",
         "updated_at": "2024-03-01"
       },
