@@ -29,7 +29,8 @@
         "updated_on": "2026-03-03",
         "gtfs_stop_id": "WW001",
         "gtfs_info": "attached",
-        "create_method": "gtfs_import"
+        "create_method": "gtfs_import",
+        "label": "Water World Auxiliary"
       },
       "geometry": {
         "coordinates": [
@@ -57,7 +58,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
@@ -93,7 +95,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
